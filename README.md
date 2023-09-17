@@ -7,5 +7,3 @@ Simple Calculator developed using HTML ,CSS and JavaScript which contain simple 
 
 
 
-#A BASIC TO-DO WEB APP
-The basic to do web app is created using html,css and javascript in which user can add any work and delete it after their work is done (todo.html,todo.css and script.js)
