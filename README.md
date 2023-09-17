@@ -4,8 +4,7 @@ Simple Calculator developed using HTML ,CSS and JavaScript which contain simple 
 
 
 
-#TRIBUTE PAGE
-The tribute.html and tri.css consits of simple tribute page using HTML,CSS.
+
 
 
 #A BASIC TO-DO WEB APP
